@@ -1,5 +1,9 @@
 {
 	"title": "Hello Adem",
 	"subtitle": "Bye Bye World!",
-	"list": "Hallo Adem"
+	"list": [
+		"Adem",
+		"Karotte",
+		"Hallo Alex"
+	]
 }
