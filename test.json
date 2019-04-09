@@ -6,5 +6,21 @@
 		"Karotte",
 		"Hallo Alex"
 	],
-	"news": []
+	"news": [
+		{
+			"image": "https://picsum.photos/400"
+		},
+		{
+			"image": "https://picsum.photos/400"
+		},
+		{
+			"image": "https://picsum.photos/400"
+		},
+		{
+			"image": "https://picsum.photos/400"
+		},
+		{
+			"image": "https://picsum.photos/400"
+		}
+	]
 }
